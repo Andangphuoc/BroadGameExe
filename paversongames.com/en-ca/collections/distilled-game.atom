@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://paversongames.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://paversongames.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://paversongames.com/en-ca/collections/distilled-game.atom"/>
+  <title>Paverson Games</title>
+  <updated>2024-05-16T11:50:30-05:00</updated>
+  <author>
+    <name>Paverson Games</name>
+  </author>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8501870919893</id>
+    <published>2024-05-16T11:50:30-05:00</published>
+    <updated>2024-05-16T11:50:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-coasters-1"/>
+    <title>Distilled Coasters</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Coasters.png?v=1715878123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Protect your table with these eight (8) double-sided cardboard drink coasters using the 16 different spirits from the base game. Just be careful, as the players may fight over which one they get to use!</p>
+<p>Weight &amp; Dimensions:<br>1.5 oz<br>102mm diameter x 2mm thick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8501870919893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01004</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8237712146645</id>
+    <published>2023-12-30T09:47:39-06:00</published>
+    <updated>2023-12-30T09:47:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-cask-strength-expansion"/>
+    <title>Distilled: Cask Strength Expansion</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/cask-strength-box-front-transparent.png?v=1703879180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"></span><span style="color: #ff2a00;"></span>Cask Strength is a mini-expansion for Distilled, designed to add a touch more complexity and variety to the game. This expansion has four parts: new distillery upgrades, special flavors, upgraded premium ingredients, and an exciting new dynamic market mechanic.<br></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Weight &amp; Dimensions:<br data-mce-fragment="1">3 oz.<br data-mce-fragment="1">90mm x 60mm x 20mm<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8237712146645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PVG01009</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8241336811733</id>
+    <published>2023-12-30T09:47:29-06:00</published>
+    <updated>2023-12-30T09:47:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-cask-strength-expansion-1"/>
+    <title>Distilled: Cask Strength Expansion</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/cask-strength-box-front-transparent_b2cae63e-9ec6-42a6-8cb7-249a276c0749.png?v=1703879258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;"></span>Cask Strength is a mini-expansion for Distilled, designed to add a touch more complexity and variety to the game. This expansion has four parts: new distillery upgrades, special flavors, upgraded premium ingredients, and an exciting new dynamic market mechanic.<br></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Weight &amp; Dimensions:<br data-mce-fragment="1">3 oz.<br data-mce-fragment="1">90mm x 60mm x 20mm<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8241336811733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PVG01009</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8214160244949</id>
+    <published>2023-11-22T09:00:44-06:00</published>
+    <updated>2023-11-22T09:00:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-board-game-1"/>
+    <title>Distilled Board Game</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Board-Game_1_FullRes_2166bddc-55b5-42ab-9130-45f1a8c3122d.png?v=1700665138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;" data-mce-fragment="1"></span>A Spirited Strategy Game</p>
+<p>Distilled is a highly-thematic, medium weight euro game about crafting alcoholic spirits in a distillery for 1-5 players. The gameplay takes inspiration from real-world distillery processes with resource management, recipe fulfillment, tableau building, and mitigate-your-luck mechanics.</p>
+<p>You have inherited a distillery from a long-lost relative, and strive for the title of master distiller, through purchasing goods, building up your distillery, and crafting the world's most renowned spirits!</p>
+<p> </p>
+<p>Players: 1-5<br>Ages: 14+<br>Time: 30 min per player</p>
+<p>Weight &amp; Dimensions:<br>7 lbs. 6 oz.<br>304.8mm x 304.8mm x 109.5mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8214160244949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>PVG01000</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8209862983893</id>
+    <published>2023-11-15T12:18:11-06:00</published>
+    <updated>2023-11-15T12:18:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-playmat-1"/>
+    <title>Distilled Playmat</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Playmat_81d12461-5a82-4188-82fa-9a62bf758b88.png?v=1700072169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" style="color: #ff2a00;"></span>The Premium Market Playmat enhances the Distilled experience, by providing a full-art neoprene playmat to serve in the middle of the table as the market mat.</p>
+<p>This will hold the decks and face-up cards for the Distillery Upgrades and Premium Items and Ingredients, making it easier to both set-up and pick-up cards on the table. It will be placed next to the truck board. It is not required to play Distilled, but deluxe-a-fies the experience!</p>
+<p>The playmat is printed on one side with a black neoprene rubber backing, and  stitching on the edge with rounded corners. It measures roughly 330 x 432 mm when laid flat on the table.</p>
+<p><em>Note: The playmat does not fit in the Distilled game box.</em></p>
+<p>Weight &amp; Dimensions:<br>8 oz.<br>432mm x 330mm x 3mm (Shipped: 70mm x 70mm x 330mm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8209862983893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PVG01006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8209860755669</id>
+    <published>2023-11-15T12:12:33-06:00</published>
+    <updated>2023-11-15T12:12:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-shot-glasses-1"/>
+    <title>Distilled Shot Glasses</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Shot-Glass_Front_e9724f00-5e33-43bc-ac05-947104a97600.png?v=1700071907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;">CURRENTLY SOLD OUT IN UK/EU</span></span></p>
+<p>Compliment your game night by including a Distilled Shot Glass! Made of glass and holds roughly 2oz. of liquid with unique black screen-printed logos on both sides.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>3.2 oz.<br>60mm diameter x 80mm height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8209860755669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01005</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8209858429141</id>
+    <published>2023-11-15T12:07:58-06:00</published>
+    <updated>2023-11-15T12:07:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-promo-pack-1"/>
+    <title>Distilled Promo Pack</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Promo-Pack_046be3c0-9c84-421e-866a-b0c21ee489f5.png?v=1700071638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;"></span></span>This 14-card promo pack introduces new distillers from around the world, as well as premium bottles and customizable flavor cards.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>1 oz.<br>90mm x 70mm x 10mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8209858429141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01002</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8209857020117</id>
+    <published>2023-11-15T12:04:54-06:00</published>
+    <updated>2023-11-15T12:04:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-metal-recipe-cubes-1"/>
+    <title>Distilled Metal Recipe Cubes</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Metal-Recipe-Cubes_8512f19e-3e92-445c-af35-f4d085151754.png?v=1700071505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;">CURRENTLY SOLD OUT IN NORTH AMERICA</span> </span></p>
+<p>A set of solid metal cubes to replace the wood cubes in the main game. Upgrade your gaming experience with the weight and feel of metal! These 37 cubes will come in three buffed colors (9 gold, 14 silver, and 14 bronze), measure roughly 10mm cubed, and be made from a solid zinc alloy.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>8 oz.<br>20mm/25mm/30mm diameters (Shipped: 15cm x 9cm x 3cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8209857020117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>PVG01008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8209843978453</id>
+    <published>2023-11-15T11:46:47-06:00</published>
+    <updated>2023-11-15T11:46:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-metal-first-player-token-sold-out"/>
+    <title>Distilled Metal First Player Token</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Metal-First-Player-Token_2_c69afdd9-34c6-4267-b844-e72f92817b4d.png?v=1700070392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;"></span></span>You're the first player, so you should feel that privilege! This solid metal upgrade to the cardboard first player token will make you wish you could hold on to it all game. Designed to sit atop your glencairn glass, we spared no expense with this upgrade, and is the perfect gift for any whisk(ey) aficionado that always want to be first!</p>
+<br>
+<p>Weight &amp; Dimensions:<br>1.5 oz<br>51mm diameter x 4mm thick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8209843978453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01007</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/8106560061653</id>
+    <published>2023-09-04T18:50:58-05:00</published>
+    <updated>2023-09-04T18:50:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/copy-of-distilled-metal-coins"/>
+    <title>Distilled Metal Coins</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/files/Distilled-Metal-Coins_561898f1-bbae-45c6-afa0-7e70e224bc10.png?v=1693540557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff0000;"><span></span></span>A set of custom metal coins to replace the cardboard coins in the main game. Upgrade your gaming experience with the weight and feel of metal in your currency!</p>
+<p>A total of 59 coins will be in three different sizes (20mm/25mm/30mm) with each size being a different color (gold, silver, and bronze), all made of a zinc alloy.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>10 oz.<br>Shipped: 15cm x 9cm x 3cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/8106560061653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>PVG01003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955996246229</id>
+    <published>2023-08-15T08:54:47-05:00</published>
+    <updated>2023-08-15T08:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-metal-coins"/>
+    <title>Distilled Metal Coins</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Metal-Coins.png?v=1673900683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff0000;"></span>A set of custom metal coins to replace the cardboard coins in the main game. Upgrade your gaming experience with the weight and feel of metal in your currency!</p>
+<p>A total of 59 coins will be in three different sizes (20mm/25mm/30mm) with each size being a different color (gold, silver, and bronze), all made of a zinc alloy.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>10 oz.<br>Shipped: 15cm x 9cm x 3cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955996246229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>PVG01003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955998114005</id>
+    <published>2023-08-15T08:53:13-05:00</published>
+    <updated>2023-08-15T08:53:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-metal-first-player-token"/>
+    <title>Distilled Metal First Player Token</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Metal-First-Player-Token_2.png?v=1674166839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You're the first player, so you should feel that privilege! This solid metal upgrade to the cardboard first player token will make you wish you could hold on to it all game. Designed to sit atop your glencairn glass, we spared no expense with this upgrade, and is the perfect gift for any whisk(ey) aficionado that always want to be first!</p>
+<br>
+<p>Weight &amp; Dimensions:<br>1.5 oz<br>51mm diameter x 4mm thick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955998114005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01007</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955998671061</id>
+    <published>2023-02-04T14:03:38-06:00</published>
+    <updated>2023-02-04T14:03:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-coasters"/>
+    <title>Distilled Coasters</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Coasters.png?v=1673899352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Protect your table with these eight (8) double-sided cardboard drink coasters using the 16 different spirits from the base game. Just be careful, as the players may fight over which one they get to use!</p>
+<p>Weight &amp; Dimensions:<br>1.5 oz<br>102mm diameter x 2mm thick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955998671061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01004</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955999031509</id>
+    <published>2022-12-28T16:10:06-06:00</published>
+    <updated>2022-12-28T16:10:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-shot-glasses"/>
+    <title>Distilled Shot Glasses</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Shot-Glass_Front.png?v=1673896478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Compliment your game night by including a Distilled Shot Glass! Made of glass and holds roughly 2oz. of liquid with unique black screen-printed logos on both sides.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>3.2 oz.<br>60mm diameter x 80mm height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955999031509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01005</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955996999893</id>
+    <published>2022-12-28T16:00:45-06:00</published>
+    <updated>2022-12-28T16:00:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-metal-recipe-cubes"/>
+    <title>Distilled Metal Recipe Cubes</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Metal-Recipe-Cubes.png?v=1673902383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;"></span></span>A set of solid metal cubes to replace the wood cubes in the main game. Upgrade your gaming experience with the weight and feel of metal! These 37 cubes will come in three buffed colors (9 gold, 14 silver, and 14 bronze), measure roughly 10mm cubed, and be made from a solid zinc alloy.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>8 oz.<br>20mm/25mm/30mm diameters (Shipped: 15cm x 9cm x 3cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955996999893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>PVG01008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955801407701</id>
+    <published>2022-12-28T11:44:06-06:00</published>
+    <updated>2022-12-28T11:44:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-playmat"/>
+    <title>Distilled Playmat</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Playmat.png?v=1673896227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Premium Market Playmat enhances the Distilled experience, by providing a full-art neoprene playmat to serve in the middle of the table as the market mat.</p>
+<p>This will hold the decks and face-up cards for the Distillery Upgrades and Premium Items and Ingredients, making it easier to both set-up and pick-up cards on the table. It will be placed next to the truck board. It is not required to play Distilled, but deluxe-a-fies the experience!</p>
+<p>The playmat is printed on one side with a black neoprene rubber backing, and  stitching on the edge with rounded corners. It measures roughly 330 x 432 mm when laid flat on the table.</p>
+<p><em>Note: The playmat does not fit in the Distilled game box.</em></p>
+<p>Weight &amp; Dimensions:<br>8 oz.<br>432mm x 330mm x 3mm (Shipped: 70mm x 70mm x 330mm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955801407701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PVG01006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7955797606613</id>
+    <published>2022-12-28T11:40:47-06:00</published>
+    <updated>2022-12-28T11:40:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-promo-pack"/>
+    <title>Distilled Promo Pack</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Promo-Pack.png?v=1674067187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 14-card promo pack introduces new distillers from around the world, as well as premium bottles and customizable flavor cards.</p>
+<br>
+<p>Weight &amp; Dimensions:<br>1 oz.<br>90mm x 70mm x 10mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7955797606613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PVG01002</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7953763172565</id>
+    <published>2022-12-23T15:38:48-06:00</published>
+    <updated>2022-12-23T15:38:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-africa-middle-east-expansion"/>
+    <title>Distilled: Africa &amp; Middle East Expansion</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Africa-Middle-East-Expansion.png?v=1673895956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Distilled Africa and Middle East Expansion adds over 100 cards and tokens to the game, including new recipes, spirits, identities, upgrades, and more to expand and diversify your Distilled gameplay experience!</p>
+<br>
+<p>Weight &amp; Dimensions:<br>15 oz.<br>178mm x 127mm x 51mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7953763172565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>PVG01001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://paversongames.com/en-ca/products/7953734435029</id>
+    <published>2022-12-23T12:49:18-06:00</published>
+    <updated>2022-12-23T12:49:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://paversongames.com/en-ca/products/distilled-board-game"/>
+    <title>Distilled Board Game</title>
+    <s:type></s:type>
+    <s:vendor>Paverson Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/4894/9461/products/Distilled-Board-Game_1_FullRes.png?v=1676994445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paverson Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Spirited Strategy Game</p>
+<p>Distilled is a highly-thematic, medium weight euro game about crafting alcoholic spirits in a distillery for 1-5 players. The gameplay takes inspiration from real-world distillery processes with resource management, recipe fulfillment, tableau building, and mitigate-your-luck mechanics.</p>
+<p>You have inherited a distillery from a long-lost relative, and strive for the title of master distiller, through purchasing goods, building up your distillery, and crafting the world's most renowned spirits!</p>
+<p> </p>
+<p>Players: 1-5<br>Ages: 14+<br>Time: 30 min per player</p>
+<p>Weight &amp; Dimensions:<br>7 lbs. 6 oz.<br>304.8mm x 304.8mm x 109.5mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://paversongames.com/en-ca/products/7953734435029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>PVG01000</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+</feed>
